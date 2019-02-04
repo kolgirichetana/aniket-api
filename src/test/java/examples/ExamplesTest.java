@@ -2,7 +2,7 @@ package examples;
 
 import com.intuit.karate.junit4.Karate;
 import org.junit.runner.RunWith;
-
+//JenkinsCheck
 @RunWith(Karate.class)
 public class ExamplesTest {
     // refer to https://github.com/intuit/karate#naming-conventions
