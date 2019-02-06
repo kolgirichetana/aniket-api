@@ -12,9 +12,9 @@ public class AzureReport {
 
 	public static void generateReport()
 	{
-		File reportOutputDirectory = new File("/Users/aniketmalusare/eclipse-workspace/karatedemo/target/AzureReports/");
+		File reportOutputDirectory = new File("/Users/aniketmalusare/eclipse-workspace_navin/Azure_Report/aniket-api/target/AzureReports/");
 		List<String> jsonFiles = new ArrayList<>();
-		jsonFiles.add("/Users/aniketmalusare/eclipse-workspace_navin/karatedemo/target/cucbumber-html-report/Cucumber.json");
+		jsonFiles.add("/Users/aniketmalusare/eclipse-workspace_navin/Azure_Report/aniket-api/target/cucumber-html-report/Cucumber.json");
 		
 		String buildNumber = "1";
 		String projectName = "cucumberProject";

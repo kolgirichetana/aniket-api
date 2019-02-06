@@ -12,7 +12,7 @@ import org.junit.runner.RunWith;
 
 @RunWith(Karate.class)
 @CucumberOptions(
-		plugin= {"pretty","json:target/cucbumber-html-report/Cucumber.json"})
+		plugin= {"pretty","json:target/cucumber-html-report/Cucumber.json"})
 public class UsersRunner {
 	
 	@BeforeClass

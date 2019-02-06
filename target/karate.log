@@ -14,3 +14,35 @@
 10:55:07.128 [main] INFO  com.intuit.karate.ScriptBridge - karate.env system property was: null 
 10:55:08.400 [main] DEBUG com.intuit.karate.StepDefs - response time in milliseconds: 1252
 10:55:08.414 [main] INFO  com.intuit.karate.StepDefs - [print] created id is: 11
+12:14:03.603 [main] DEBUG c.i.karate.cucumber.CucumberRunner - init test class: class examples.users.UsersRunner
+12:14:03.711 [main] DEBUG c.i.karate.cucumber.CucumberRunner - loading feature: /Users/aniketmalusare/eclipse-workspace_navin/Azure_Report/aniket-api/target/test-classes/examples/users/users.feature
+12:14:04.781 [main] INFO  com.intuit.karate.ScriptBridge - karate.env system property was: null 
+12:14:06.265 [main] DEBUG com.intuit.karate.StepDefs - response time in milliseconds: 1305
+12:14:06.559 [main] DEBUG com.intuit.karate.StepDefs - response time in milliseconds: 189
+12:14:06.600 [main] INFO  com.intuit.karate.ScriptBridge - karate.env system property was: null 
+12:14:08.401 [main] DEBUG com.intuit.karate.StepDefs - response time in milliseconds: 1775
+12:14:08.414 [main] INFO  com.intuit.karate.StepDefs - [print] created id is: 11
+12:16:42.538 [main] DEBUG c.i.karate.cucumber.CucumberRunner - init test class: class examples.users.UsersRunner
+12:16:42.671 [main] DEBUG c.i.karate.cucumber.CucumberRunner - loading feature: /Users/aniketmalusare/eclipse-workspace_navin/Azure_Report/aniket-api/target/test-classes/examples/users/users.feature
+12:16:44.117 [main] INFO  com.intuit.karate.ScriptBridge - karate.env system property was: null 
+12:16:45.703 [main] DEBUG com.intuit.karate.StepDefs - response time in milliseconds: 1344
+12:16:46.097 [main] DEBUG com.intuit.karate.StepDefs - response time in milliseconds: 262
+12:16:46.150 [main] INFO  com.intuit.karate.ScriptBridge - karate.env system property was: null 
+12:16:47.428 [main] DEBUG com.intuit.karate.StepDefs - response time in milliseconds: 1247
+12:16:47.442 [main] INFO  com.intuit.karate.StepDefs - [print] created id is: 11
+12:17:23.972 [main] DEBUG c.i.karate.cucumber.CucumberRunner - init test class: class examples.users.UsersRunner
+12:17:24.083 [main] DEBUG c.i.karate.cucumber.CucumberRunner - loading feature: /Users/aniketmalusare/eclipse-workspace_navin/Azure_Report/aniket-api/target/test-classes/examples/users/users.feature
+12:17:25.172 [main] INFO  com.intuit.karate.ScriptBridge - karate.env system property was: null 
+12:17:26.558 [main] DEBUG com.intuit.karate.StepDefs - response time in milliseconds: 1206
+12:17:26.832 [main] DEBUG com.intuit.karate.StepDefs - response time in milliseconds: 138
+12:17:26.914 [main] INFO  com.intuit.karate.ScriptBridge - karate.env system property was: null 
+12:17:28.081 [main] DEBUG com.intuit.karate.StepDefs - response time in milliseconds: 1134
+12:17:28.095 [main] INFO  com.intuit.karate.StepDefs - [print] created id is: 11
+12:17:40.840 [main] DEBUG c.i.karate.cucumber.CucumberRunner - init test class: class examples.users.UsersRunner
+12:17:40.956 [main] DEBUG c.i.karate.cucumber.CucumberRunner - loading feature: /Users/aniketmalusare/eclipse-workspace_navin/Azure_Report/aniket-api/target/test-classes/examples/users/users.feature
+12:17:42.333 [main] INFO  com.intuit.karate.ScriptBridge - karate.env system property was: null 
+12:17:43.761 [main] DEBUG com.intuit.karate.StepDefs - response time in milliseconds: 1256
+12:17:44.160 [main] DEBUG com.intuit.karate.StepDefs - response time in milliseconds: 201
+12:17:44.203 [main] INFO  com.intuit.karate.ScriptBridge - karate.env system property was: null 
+12:17:45.489 [main] DEBUG com.intuit.karate.StepDefs - response time in milliseconds: 1257
+12:17:45.504 [main] INFO  com.intuit.karate.StepDefs - [print] created id is: 11
